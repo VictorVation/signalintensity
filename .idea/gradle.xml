@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="C:\Users\Victor\AndroidStudioProjects\SignalIntensity" />
-            <option value="C:\Users\Victor\AndroidStudioProjects\SignalIntensity\signalintensity" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/signalintensity" />
           </set>
         </option>
       </GradleProjectSettings>

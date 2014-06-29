@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SignalIntensity.iml" filepath="$PROJECT_DIR$/SignalIntensity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/signal-intensity.iml" filepath="$PROJECT_DIR$/signal-intensity.iml" />
       <module fileurl="file://$PROJECT_DIR$/signalintensity/signalintensity.iml" filepath="$PROJECT_DIR$/signalintensity/signalintensity.iml" />
     </modules>
   </component>
