@@ -50,6 +50,10 @@ public class ColorActivity extends Activity {
         TextView rssiText = (TextView) findViewById(R.id.fullscreen_content);
         rssiText.setText(msg);
 
+        TextView percentText = (TextView) findViewById(R.id.percent);
+        String percent = String.valueOf(Math.round(prop * 100))+'%';
+        percentText.setText(percent);
+
         View backgroundView = findViewById(R.id.background);
         backgroundView.setBackgroundColor(interpolateColor(0x1729B0, 0xFF3500, prop));
     }
