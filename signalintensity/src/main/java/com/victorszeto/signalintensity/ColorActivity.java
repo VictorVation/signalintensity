@@ -46,7 +46,7 @@ public class ColorActivity extends Activity {
 
     public void setContentText(String msg) {
         float prop = getRssiProportion(Integer.parseInt(msg));
-
+        prop = prop > 1 ? 1 : prop;
         TextView rssiText = (TextView) findViewById(R.id.fullscreen_content);
         rssiText.setText(msg);
 
@@ -61,11 +61,10 @@ public class ColorActivity extends Activity {
     // Get proportion of MAX_RSSI from value
     public static float getRssiProportion(int rssi){
         final int MIN_RSSI = -100;
-        final int MAX_RSSI = -55;
+        final int MAX_RSSI = -50;
+        final float range = MAX_RSSI - MIN_RSSI;
 
-        float range = MAX_RSSI - MIN_RSSI;
-        float normalized = (MAX_RSSI - rssi) / range;
-        System.out.println(normalized);
+        float normalized = 1 - ((MAX_RSSI - rssi) / range);
         return normalized;
     }
 
