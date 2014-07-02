@@ -10,3 +10,6 @@ Displays the RSSI (relative signal strength indicator) detected by your phone, w
 ## How to read
 RSSI is a negative number between -100 and -55. The higher the number, the stronger the signal.
 The background colour is an interpolated color between blue and red. Blue means weak signal, red means strong signal.
+
+## Why do I need this
+Useful for looking for WiFi "dead zones" in a room, or finding places where the signal is strongest when you're in a place with a flaky/weak wifi connection. I also hear it's cool for light painting and taking long-exposure photos with.
