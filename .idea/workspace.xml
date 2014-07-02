@@ -44,17 +44,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ColorActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ColorActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/signalintensity/src/main/java/com/victorszeto/signalintensity/ColorActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1700" max-vertical-offset="3060">
-              <caret line="86" column="36" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.7111111" vertical-offset="640" max-vertical-offset="3080">
+              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#963#1176#0" expanded="true" />
-                <element signature="e#1165#1166#0" expanded="true" />
-                <element signature="e#1219#1439#0" expanded="true" />
-                <element signature="e#1428#1429#0" expanded="true" />
+                <element signature="e#963#1175#0" expanded="true" />
+                <element signature="e#1164#1165#0" expanded="true" />
+                <element signature="e#1218#1438#0" expanded="true" />
+                <element signature="e#1427#1428#0" expanded="true" />
                 <element signature="e#2881#2882#0" expanded="true" />
                 <element signature="e#2926#2927#0" expanded="true" />
               </folding>
@@ -95,11 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/signalintensity/src/main/res/values/styles.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30237582" vertical-offset="0" max-vertical-offset="680">
-              <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -138,8 +138,8 @@
       <file leaf-file-name="WifiReceiver.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/signalintensity/src/main/java/com/victorszeto/signalintensity/WifiReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="560">
-              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="500">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -832,11 +832,11 @@
         <option value="$PROJECT_DIR$/signalintensity/src/main/res/values-v11/styles.xml" />
         <option value="$PROJECT_DIR$/signalintensity/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/signalintensity/build.gradle" />
-        <option value="$PROJECT_DIR$/signalintensity/src/main/java/com/victorszeto/signalintensity/WifiReceiver.java" />
         <option value="$PROJECT_DIR$/signalintensity/src/main/res/menu/color_activity_actions.xml" />
         <option value="$PROJECT_DIR$/signalintensity/src/main/res/layout/activity_color.xml" />
-        <option value="$PROJECT_DIR$/signalintensity/src/main/java/com/victorszeto/signalintensity/ColorActivity.java" />
         <option value="$PROJECT_DIR$/signalintensity/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/signalintensity/src/main/java/com/victorszeto/signalintensity/WifiReceiver.java" />
+        <option value="$PROJECT_DIR$/signalintensity/src/main/java/com/victorszeto/signalintensity/ColorActivity.java" />
       </list>
     </option>
   </component>
@@ -1208,7 +1208,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/strongsignal.png" />
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="04e7d6221a0b8df3" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Helo" />
@@ -1512,10 +1512,10 @@
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#963#1176#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-            <element signature="e#1219#1439#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#963#1175#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1218#1438#0" expanded="true" />
+            <element signature="e#1427#1428#0" expanded="true" />
             <element signature="e#2881#2882#0" expanded="true" />
             <element signature="e#2926#2927#0" expanded="true" />
           </folding>
@@ -1595,10 +1595,10 @@
           <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#963#1176#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-            <element signature="e#1219#1439#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#963#1175#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1218#1438#0" expanded="true" />
+            <element signature="e#1427#1428#0" expanded="true" />
             <element signature="e#2881#2882#0" expanded="true" />
             <element signature="e#2926#2927#0" expanded="true" />
           </folding>
@@ -1677,10 +1677,10 @@
           <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#963#1176#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-            <element signature="e#1219#1439#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#963#1175#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1218#1438#0" expanded="true" />
+            <element signature="e#1427#1428#0" expanded="true" />
             <element signature="e#2881#2882#0" expanded="true" />
             <element signature="e#2926#2927#0" expanded="true" />
           </folding>
@@ -1840,14 +1840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/signalintensity/src/main/java/com/victorszeto/signalintensity/WifiReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="500">
-          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/signalintensity/src/main/res/layout/activity_color.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -1856,22 +1848,6 @@
         <state vertical-scroll-proportion="-3.7037036" vertical-offset="0" max-vertical-offset="760">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signalintensity/src/main/java/com/victorszeto/signalintensity/ColorActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1700" max-vertical-offset="3060">
-          <caret line="86" column="36" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#963#1176#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-            <element signature="e#1219#1439#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
-            <element signature="e#2881#2882#0" expanded="true" />
-            <element signature="e#2926#2927#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1893,9 +1869,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/signalintensity/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30237582" vertical-offset="0" max-vertical-offset="680">
-          <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signalintensity/src/main/java/com/victorszeto/signalintensity/WifiReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="500">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signalintensity/src/main/java/com/victorszeto/signalintensity/ColorActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7111111" vertical-offset="640" max-vertical-offset="3080">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#963#1175#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1218#1438#0" expanded="true" />
+            <element signature="e#1427#1428#0" expanded="true" />
+            <element signature="e#2881#2882#0" expanded="true" />
+            <element signature="e#2926#2927#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

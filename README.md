@@ -1,8 +1,8 @@
 # Signal Intensity
 Minimalist Android app to show the strength of your wifi signal. Available on the Play Store: [Signal Intensity](https://play.google.com/store/apps/details?id=com.victorszeto.signalintensity)
 
-![strong-signal](/images/strongsignal.png?raw=true)
-![weak-signal](/images/weaksignal.png?raw=true)
+<img src="/images/strongsignal.png?raw=true" width="50%" />
+<img src="/images/weaksignal.png?raw=true" width="50%" />
 
 ## What is this
 Displays the RSSI (relative signal strength indicator) detected by your phone, with a percentage of "maximum" (according to Android's `WifiManager`) possible RSSI. The background color changes depending on how strong your signal is.
