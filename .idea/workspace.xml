@@ -85,21 +85,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/signalintensity/src/main/res/values-v11/styles.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64794815" vertical-offset="0" max-vertical-offset="463">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="styles.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/signalintensity/src/main/res/values/styles.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-              <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+            <state vertical-scroll-proportion="0.30237582" vertical-offset="0" max-vertical-offset="680">
+              <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -834,9 +834,9 @@
         <option value="$PROJECT_DIR$/signalintensity/build.gradle" />
         <option value="$PROJECT_DIR$/signalintensity/src/main/java/com/victorszeto/signalintensity/WifiReceiver.java" />
         <option value="$PROJECT_DIR$/signalintensity/src/main/res/menu/color_activity_actions.xml" />
-        <option value="$PROJECT_DIR$/signalintensity/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/signalintensity/src/main/res/layout/activity_color.xml" />
         <option value="$PROJECT_DIR$/signalintensity/src/main/java/com/victorszeto/signalintensity/ColorActivity.java" />
+        <option value="$PROJECT_DIR$/signalintensity/src/main/res/values/styles.xml" />
       </list>
     </option>
   </component>
@@ -1848,14 +1848,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/signalintensity/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/signalintensity/src/main/res/layout/activity_color.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -1893,8 +1885,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/signalintensity/src/main/res/values-v11/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64794815" vertical-offset="0" max-vertical-offset="463">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signalintensity/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30237582" vertical-offset="0" max-vertical-offset="680">
+          <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
           <folding />
         </state>
       </provider>
