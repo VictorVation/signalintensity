@@ -6,9 +6,12 @@ import android.graphics.Color;
 import android.net.wifi.WifiManager;
 import android.os.Bundle;
 import android.view.GestureDetector;
+import android.view.MenuInflater;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.widget.TextView;
 
 public class ColorActivity extends Activity {
@@ -80,6 +83,9 @@ public class ColorActivity extends Activity {
         return Color.HSVToColor(hsvb);
     }
 
+    private void openSettings() {
+        System.out.println("Helo!"  );
+    }
     private static float interpolate(float a, float b, float proportion) {
         return (a + ((b - a) * proportion));
     }
@@ -93,6 +99,24 @@ public class ColorActivity extends Activity {
                         | View.SYSTEM_UI_FLAG_HIDE_NAVIGATION
                         | View.SYSTEM_UI_FLAG_FULLSCREEN
                         | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.action_info:
+                openSettings();
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.color_activity_actions, menu);
+        return super.onCreateOptionsMenu(menu);
     }
 
     @Override
